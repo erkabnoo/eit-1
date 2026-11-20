@@ -1,1 +1,1 @@
-# eit-1
+print("Hello, World!")
